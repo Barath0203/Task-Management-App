@@ -5,9 +5,6 @@
 This is a simple Task Management App that allows users to add, edit, delete, and filter tasks based on their completion status.
 The tasks are stored in the browser's local storage.
 
-## Live Demo
-Click link here for the live demo:([Live Demo](https://harikaran007.github.io/TaskManagementApp/))
-
 ## Features
 
 - Add tasks with a name and due date.
